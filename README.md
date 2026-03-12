@@ -1,1 +1,2 @@
-# Eduardo2020
+# Analisis-de-datos-UQ
+Repositirio de la materia analisis de datos
